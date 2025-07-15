@@ -15,8 +15,6 @@ Une entreprise souhaite analyser la **répartition des performances des employé
 
 Le projet s’appuie sur le **dataset "HR Analytics Dataset"** de Kaggle qui contient des données détaillées sur les employés : services, heures travaillées, scores de performance, ancienneté, etc.
 
-Note : Afin de respecter la confidentialité et la licence d’utilisation, toutes les données sensibles et informations personnelles ont été anonymisées ou supprimées dans ce projet.
-
 ## 🧰 Technologies utilisées
 
 - Python 3.x  
