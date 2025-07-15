@@ -25,15 +25,12 @@ Le projet s’appuie sur le **dataset "HR Analytics Dataset"** de Kaggle, qui co
 
 ## 📁 Structure du projet
 
-```
 projet-performance-employes/
 │
-├── data/                # Données brutes ou nettoyées
 ├── notebooks/           # Notebooks d'analyse exploratoire
 ├── requirements.txt     # Dépendances Python
 ├── LICENSE              # Licence du projet
 └── README.md            # Ce fichier
-```
 
 ## 🚀 Objectifs du projet
 
