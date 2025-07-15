@@ -13,7 +13,9 @@ Une entreprise souhaite analyser la **répartition des performances des employé
 - Identifier les **outliers** (performances atypiques),
 - Proposer des pistes d’amélioration.
 
-Le projet s’appuie sur le **dataset "HR Analytics Dataset"** de Kaggle, qui contient des données détaillées sur les employés : services, heures travaillées, scores de performance, ancienneté, etc.
+Le projet s’appuie sur le **dataset "HR Analytics Dataset"** de Kaggle qui contient des données détaillées sur les employés : services, heures travaillées, scores de performance, ancienneté, etc.
+
+Note : Afin de respecter la confidentialité et la licence d’utilisation, toutes les données sensibles et informations personnelles ont été anonymisées ou supprimées dans ce projet.
 
 ## 🧰 Technologies utilisées
 
@@ -53,3 +55,15 @@ projet-performance-employes/
 ## 📜 Licence
 
 Ce projet est sous licence **MIT** — voir le fichier [LICENSE](./LICENSE) pour plus de détails.
+
+## Licence des données
+
+Le dataset utilisé dans ce projet est la propriété de Dr. Carla Patalano et Dr. Rich Huebner, sous licence **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+
+Cela signifie que les données sont fournies à des fins d’apprentissage et d’enseignement uniquement, sans utilisation commerciale, et sans distribution de versions modifiées.
+
+Les données ne sont pas incluses dans ce dépôt et doivent être obtenues directement depuis la source officielle.
+
+Pour plus d’informations, consultez la licence complète :  
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
