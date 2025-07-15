@@ -1,6 +1,6 @@
 # employee-performance-analysis
 
-# 📊 Projet 2 – Analyse des Performances des Employés
+# 📊 Analyse des Performances des Employés
 
 ## 🎯 Votre mission
 
