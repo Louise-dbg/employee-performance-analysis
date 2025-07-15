@@ -43,7 +43,7 @@ projet-performance-employes/
 
 ## 📊 Données utilisées
 
-- Source : [HR Analytics Dataset – Kaggle](https://www.kaggle.com/)
+- Source : https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
 - Type de données : fichiers CSV contenant des informations RH (nom, poste, score, heures, etc.)
 
 ## 📌 Résultats attendus
