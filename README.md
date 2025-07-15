@@ -13,7 +13,7 @@ Une entreprise souhaite analyser la **répartition des performances des employé
 - Identifier les **outliers** (performances atypiques),
 - Proposer des pistes d’amélioration.
 
-Le projet s’appuie sur le **dataset "HR Analytics Dataset"** de Kaggle qui contient des données détaillées sur les employés : services, heures travaillées, scores de performance, ancienneté, etc.
+Le projet s’appuie sur le **dataset "HR Analytics Dataset"** de Kaggle qui contient des données fictives détaillées sur les employés : services, heures travaillées, scores de performance, ancienneté, etc.
 
 ## 🧰 Technologies utilisées
 
